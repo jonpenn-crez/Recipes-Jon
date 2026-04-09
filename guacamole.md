@@ -5,5 +5,5 @@
 * salt (2)
 ## Instructions
 
-* use a spoon to break up the avocado in a bowl
 
+* use a spoon to break up the avocado in a bowl
